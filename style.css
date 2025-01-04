@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.imagediv {
+  text-align: center;
+}
+img {
+  width: 350px;
+  height: 400px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
